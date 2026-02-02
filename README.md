@@ -12,6 +12,7 @@ This repository contains MATLAB simulation scripts for designing and analyzing v
 - [Usage](#usage)
 - [Device Specifications](#device-specifications)
 - [Results](#results)
+- [Documentation](#documentation)
 - [Contributing](#contributing)
 - [License](#license)
 - [Authors](#authors)
@@ -293,6 +294,14 @@ Simulation results include:
    - Performance metrics (responsivity, detectivity, fill factor, etc.)
 
 For detailed analysis and theoretical background, please refer to the [project report](docs/EEE460_projectReport_group04.pdf).
+
+## 📖 Documentation
+
+Additional documentation is available in the `docs/` directory:
+
+- **[Running Simulations Guide](docs/RUNNING_SIMULATIONS.md)** - Detailed instructions for running each simulation
+- **[Quick Reference Guide](docs/QUICK_REFERENCE.md)** - Quick lookup for parameters, formulas, and common tasks
+- **[Project Report](docs/EEE460_projectReport_group04.pdf)** - Comprehensive project report with theory and analysis
 
 ## 🤝 Contributing
 
