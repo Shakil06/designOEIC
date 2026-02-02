@@ -121,11 +121,12 @@ designOEIC/
 │   └── solar_cell/      → Solar cell simulations
 ├── data/
 │   ├── InGaAs.txt       → n, k values for InGaAs
-│   ├── laser.txt        → Laser material data
 │   └── sensitivity_GaAs.txt → Spectral sensitivity
-└── docs/
-    ├── *.pdf            → Project reports
-    └── *.md             → Documentation
+├── docs/
+│   ├── *.pdf            → Project reports
+│   └── *.md             → Documentation
+└── archive/
+    └── laser_draft.txt  → Incomplete files (reference only)
 ```
 
 ## Common MATLAB Commands

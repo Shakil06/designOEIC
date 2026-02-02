@@ -42,10 +42,11 @@ designOEIC/
 │       └── EEE460_project_group04_SolarCell01.m      # Solar Cell simulation
 ├── data/                                  # Data files and material properties
 │   ├── InGaAs.txt                        # InGaAs material optical properties
-│   ├── laser.txt                         # Laser material parameters
 │   └── sensitivity_GaAs.txt              # GaAs spectral sensitivity data
 ├── docs/                                  # Documentation
 │   └── EEE460_projectReport_group04.pdf  # Detailed project report
+├── archive/                              # Archived/draft files
+│   └── laser_draft.txt                   # Incomplete laser script (for reference)
 ├── .gitignore                            # Git ignore file for MATLAB projects
 └── README.md                             # This file
 ```
