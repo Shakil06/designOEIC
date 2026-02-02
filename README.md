@@ -319,32 +319,11 @@ Contributions are welcome! Please follow these guidelines:
 
 This project is part of an academic course (EEE460) and is intended for educational purposes. Please contact the authors for usage permissions.
 
-## 👥 Authors
-
-**Group 04 - EEE460 Project**
-
-For questions or collaboration opportunities, please open an issue on GitHub.
-
 ## 📚 References
 
 1. Wilson, J. and Hawkes, J., "Optoelectronics: An Introduction"
 2. Kasap, S.O., "Optoelectronics and Photonics: Principles and Practices"
 3. Bhattacharya, P., "Semiconductor Optoelectronic Devices"
-
-## 📝 Citation
-
-If you use this code in your research, please cite:
-
-```bibtex
-@misc{designOEIC2024,
-  author = {Group 04},
-  title = {Optoelectronic Integrated Circuit Design Simulations},
-  year = {2024},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/Shakil06/designOEIC}}
-}
-```
 
 ---
 
