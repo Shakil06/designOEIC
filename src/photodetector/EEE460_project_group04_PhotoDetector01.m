@@ -3,7 +3,7 @@ clear all;
 close all;
 
 %%
-X = dlmread('InGaAs.txt');
+X = dlmread('../../data/InGaAs.txt');
 lambda = X(:,1);  %um
 n = X(:,2);
 k = X(:,3);

@@ -1,0 +1,35 @@
+# MATLAB autosave files
+*.asv
+
+# MATLAB temporary files
+*.m~
+~*.m
+
+# MATLAB compiled files
+*.mex*
+*.mat
+*.slx.autosave
+
+# MATLAB code generation
+codegen/
+slprj/
+
+# MATLAB cache
+*.mlappinstall
+*.mltbx
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~

@@ -95,7 +95,7 @@ Ft          = (1/4)*(nr2/nr1)^2*(1-((nr1-nr2)/(nr1+nr2))^2);
 ne          = (1/2)*(1-cos(crit_ang))*Ft 
 
 %% File Input for Luminous Efficiency
-C           = dlmread('sensitivity_GaAs.txt'); %sensitivity file
+C           = dlmread('../../data/sensitivity_GaAs.txt'); %sensitivity file
 lambda      = C(:,1);
 sensitivity = C(:,2);
 emission    = rsp;
